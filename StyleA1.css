@@ -1,0 +1,55 @@
+#header {
+	text-align: center;
+	
+}
+
+nav {
+	margin: auto;
+	text-align: center;
+	background-color: lightgray;
+}
+
+ ul {
+ 		display: inline-block;
+       list-style-type: none;
+       margin: auto; 
+       padding: 0; 
+       overflow: hidden; 
+       top: 0.5em;
+
+   }
+
+  li {
+    	float: left;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+    
+
+main p { text-align: center;
+	background-color: lightgray;
+	padding: 14px 16px;
+
+}
+
+#desperation {
+	column-count: 3; 
+	text-align: center;
+}
+
+.column {	background-color: lightgray;
+	padding: 14px 16px;
+
+}
+
+footer {
+	height: 40px;
+    clear: both;
+    text-align: center;
+     background-color: lightgray;
+}
+
+#copyright {text-align: center;
+			padding: 7px;
+}
